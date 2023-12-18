@@ -1,0 +1,13 @@
+Uptime: 5 days
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        61G  4.7G   54G   8% /
+/dev/sda1       4.0T  2.5T  1.3T  67% /Mounted_disk
+
+
+CPU: temp=62.3'C  max:69  min:56  average:61 Sat 26 Aug 2023 07:20:47
+
+HDD: Temperature_Celsius:40 - Max:40 - Filled:67% - Free space:1.2T - Sat 26 Aug 2023 07:15:31
+
+
+RAM: 11%
